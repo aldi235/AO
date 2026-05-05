@@ -102,7 +102,7 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 3. Build a Dapp on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/5)
     - Creating the DApp
     - Deploying the DApp
-    - Creating a Human-Friendly Name for the DApp
+  
 
 | Task | Topic | Status |
 |-------|-------|-------|
