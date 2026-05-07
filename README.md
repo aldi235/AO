@@ -24,7 +24,7 @@ Special thanks to [@K4y1s](https://x.com/K4y1s), [@sayestheorem](https://x.com/s
 We divided this event into two parts: one for beginners and one for advanced developers.
 
 - **Beginners** can enter the `Learning section`, where they will complete their learning by studying courses and submitting tasks.
-- **Advanced Developers** can directly participate in the `Practice section` competition. You can choose a topic of your interest from the challange list and complete the practice by developing and writing tutorials. The best practices will be selected by judges and rewarded.
+- **Advanced Developers** can directly participate in the `Practice section` competition. You can choose a topic of your interest from the challange list and complete the practice by developing and writing tutorials.
 
 ## Preparation
 
