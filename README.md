@@ -92,7 +92,6 @@ Developers who complete all the courses and submit the tasks will receive a Leve
     - How to Access Files on Arweave?
     - How to Access Directories on Arweave?
     - How to Find Files on Arweave With GraphQL?
-    - How to Find Files on Arweave With Subdomains?
 
 2. Building a static website on Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/4)
     - Creating Your Website
