@@ -41,7 +41,6 @@ kkkk
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username, e.g. `submissions/YourName`.
 3. Copy the [Template.md](./template.md) file into the newly created folder and rename it to your name: `YourName.md`.
 4. Open the `submissions/YourName/YourName.md` file, fill in your information as instructed, and save it.
-5. Commit your changes and create a Pull Request to this repository. Once your PR is merged, your GitHub registration is complete.
 6. Once completed, you are welcome to join in the Arweave Academy [Discord Channel](https://discord.gg/6TpAzdmt)!
 
 ## Task Submission
