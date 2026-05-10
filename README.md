@@ -36,7 +36,7 @@ Before participating in the event, here’s what you need to prepare:
 
 ## Registration
 
-Developers need to complete GitHub registration by following these steps:
+kkkk
 
 1. **Star**, **Watch** and **Fork** this repository and `git clone` it to your local machine. <br> 👉 Not familiar with Git/Github? Check out [Using Arweave Academy Github](./doc/Using%20Arweave%20Academy%20Github.md).
 2. Navigate to the `submissions` folder and create a new folder named after your GitHub username, e.g. `submissions/YourName`.
